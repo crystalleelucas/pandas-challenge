@@ -1,0 +1,8 @@
+PyCitySchools 
+This analysis consists of district-wide standardized test results from every student, focusing on math and reading scores from 15 different schools to assist in the decisions regarding future school budgets and priorities. 
+
+There were 15 schools with a total of 39,170 students and a total budget of $24,649,428. The total students' average reading score is 81.88, while the average math score is 78.99. The passing rate in reading is 85.81%, passing rate in math is 74.98%, therefore the overall passing rate is 65.17%.
+
+The analysis concludes that schools with higher budgets per student, don’t yield better test results. By contrast, while schools spending per student increase, students' average math and reading score, and the rate of passing math and reading, decreases. 
+Charter schools outperformed the public district schools across all metrics. As we can see, students at smaller schools perform better than larger-sized schools. The size of the school has a direct influence on student performance. 
+
